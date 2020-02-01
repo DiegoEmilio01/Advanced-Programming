@@ -1,0 +1,12 @@
+{
+    "host": "127.0.0.1",
+    "port": 9000,
+    "paths": {
+        "logo": ["..", "sprites", "logo.png"],
+        "fondo_1": ["..", "sprites", "fondos", "1.png"],
+        "fondo_2": ["..", "sprites", "fondos", "2.png"],
+        "fondo_3": ["..", "sprites", "fondos", "3.png"],
+        "fondo_4": ["..", "sprites", "fondos", "4.png"],
+        "personaje":["..", "sprites", "personajes", "personaje", "idle.png"]
+    }
+}
