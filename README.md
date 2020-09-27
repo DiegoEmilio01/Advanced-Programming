@@ -1,2 +1,3 @@
-# Advanced-Programming - IIC2233 Pontificia Universidad Católica de Chile
-Answers of Avanced-Programming's homeworks and activities by Diego Bustamante.
+# Advanced Programming
+## Course at Pontificia Universidad Católica de Chile (IIC2233)
+Activities and Homework answers by Diego Bustamante.
